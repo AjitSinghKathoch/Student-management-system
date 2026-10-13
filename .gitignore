@@ -1,4 +1,10 @@
+# Compiled executable
 student.exe
+
+# SQLite database files
 students.db
 students.db-shm
 students.db-wal
+
+# VS Code settings
+.vscode/
